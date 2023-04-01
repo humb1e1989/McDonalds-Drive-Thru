@@ -5,12 +5,12 @@
 
 ## I am a super fan of McDonald. That's why I took the opportunity of my computer graphics assignment to design and build a 3D model of McDonald drive-thrurestaurant. Hope you like it and any comments are welcomed!
 
-### Outliner:
->if you want to get the packed folder of this project, click this:<br>
->if you want to see the source code of this program: click this:<br>
->if you want to run the program of mine, click this:<br>
->if you want to see what I have done and how I conducted the program, click this:<br>
->if you want to see the texture I use, click this:<br>  
+>  Outliner:
+> + if you want to get the packed folder of this project, [Click this](McDonalds-Drive-Thru/)<br>
+> + if you want to see the source code of this program: click this:<br>
+> + if you want to run the program of mine, click this:<br>
+> + if you want to see what I have done and how I conducted the program, click this:<br>
+> + if you want to see the texture I use, click this:<br>  
 
 Please note that the .exe file only can be running with ***the textures file on the same folder*** .
 
