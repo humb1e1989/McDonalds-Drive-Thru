@@ -18,7 +18,16 @@ Please note that the .exe file only can be running with ***the textures file on 
 >The three-dimensional model is designed to imitate a genuine McDonald's drive-thru restaurant scenario, which includes a two-story McDonald's restaurant, a road sign to the left of the restaurant, and two moving cars in front of it, as well as the ground and background. The drive-thru restaurant and the signboard, which is based on a real-life McDonald's restaurant, are the key elements of this scenario. In addition, realistic ground and backdrop textures are used to create a more immersive daily life atmosphere. Aside from static models, the animation of the car driving and the opening and closing of the restaurant's front door replicates a more vivid scene of stepping out of the car and entering the restaurant. Likewise, the program provides a certain level of interactive functionality, preliminary accomplishing a specific range of human-like perspective adjustments, allowing the user's view to be remoted by keyboard input. In this manner, the scene can be viewed from several angles.
 
 ### Demo:
-> Initial scene:
-> 
+> * Initial scene:
+> ![Initial scene](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/pic%203%20the%20beginning%20of%20the%20project.png)
+> * side look:
+> ![side look](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/pic4%20the%20reslut%20of%20movement.png)
+> * Inside look:
+> ![Inside look 1](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20store%20counter%20and%20the%20stairs.png)
+> ![Inside look 2](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20tabls%20of%201st%20floor.png)
+> ![Inside look 3](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20right%20of%202f.png)
+> ![Inside look 4](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20left%20of%202f.png)
+
+
 
 
