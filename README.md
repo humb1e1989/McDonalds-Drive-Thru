@@ -42,9 +42,9 @@ Please note that the .exe file only can be running with ***the textures file on 
 > ![side look](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/pic4%20the%20reslut%20of%20movement.png)
 > * Inside look:
 > ![Inside look 1](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20store%20counter%20and%20the%20stairs.png)
-> ![Inside look 2](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20tabls%20of%201st%20floor.png)
-> ![Inside look 3](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20right%20of%202f.png)
-> ![Inside look 4](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20left%20of%202f.png)
+>>![Inside look 2](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20tabls%20of%201st%20floor.png)
+>>>![Inside look 3](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20right%20of%202f.png)
+>>>> ![Inside look 4](https://github.com/humb1e1989/McDonalds-Drive-Thru/blob/main/Demo/the%20left%20of%202f.png)
 
 
 
